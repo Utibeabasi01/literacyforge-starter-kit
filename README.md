@@ -49,8 +49,11 @@ Your contributions will directly support the development of **AI-powered literac
    ```
    
 
-   ⚠️ **Important:** Submitting `info.txt` on Lunor Quest is required for your participation to count.
-   If you skip this step, your work on Prodi.gy will not be registered.
+   Id: 0xCF6236fcE2E6D98af5Ce0fa4393B85f54266fAFb
+   Country: Nigeria
+   Gender: Male
+   Age: 18–24
+   English Level: Upper-intermediate
 
 
 
