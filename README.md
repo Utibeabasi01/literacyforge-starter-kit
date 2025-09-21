@@ -47,11 +47,11 @@ Your contributions will directly support the development of **AI-powered literac
    After finishing annotation tasks, fill out the `info.txt` file with the following information:
 
    ```
-   Id: Your Lunor Id
-   Country: <your country>
-   Gender: Male / Female / Other
-   Age: 18–24 / 25–34 / 35–44 / 45–54 / 55–64 / 65+
-   English Level: Beginner / Elementary / Intermediate / Upper-intermediate / Advanced / Native-Bilingual
+   Id: 0xCF6236fcE2E6D98af5Ce0fa4393B85f54266fAFb
+   Country: Nigeria
+   Gender: Male
+   Age: 18–24 /
+   English Level: Upper-intermediate
    ```
 
    ⚠️ **Important:** Submitting `info.txt` on Lunor Quest is required for your participation to count.
